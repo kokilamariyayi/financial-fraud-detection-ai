@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary model files (do NOT ignore .pkl)
+model/*.joblib
+model/*.sav
