@@ -77,7 +77,7 @@ MIT License
 ## Dataset Source
 
 The dataset is publicly available and can be accessed from:
-https://www.kaggle.com/datasets/ntnu-testimon/paysim1
+[https://www.kaggle.com/datasets/ntnu-testimon/paysim1](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset)
 
 ---
 
